@@ -3,6 +3,8 @@ implemented diffs are as follows:
 
 * xresources: 
     https://st.suckless.org/patches/xresources/
+* transparency: 
+    https://st.suckless.org/patches/alpha/
 
 st - simple terminal
 --------------------
