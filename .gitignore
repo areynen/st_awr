@@ -1,0 +1,6 @@
+*diff
+.vscode/
+*.orig
+*.rej
+*.o
+st
